@@ -17,21 +17,21 @@
     </item>
     
     <item>
-      <title>Mis trabajos</title>
-      <link>/docs/post3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/post3/</guid>
-      <description>Trabajos realizados por mi</description>
-    </item>
-    
-    <item>
       <title>Sillas</title>
       <link>/docs/copia-de-post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>/docs/copia-de-post-1/</guid>
       <description>Elección de dos sillas</description>
+    </item>
+    
+    <item>
+      <title>Furniture Family</title>
+      <link>/docs/post-1-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-1-copy/</guid>
+      <description>Portafolio  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
     </item>
     
   </channel>
