@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis trabajos</title>
+      <title>Encargo 00</title>
       <link>/docs/post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Sillas</title>
+      <title>Encargo 02</title>
       <link>/docs/copia-de-post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -26,12 +26,39 @@
     </item>
     
     <item>
-      <title>Furniture Family</title>
+      <title>Encargo 03</title>
+      <link>/docs/post-1-copy-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-1-copy-3/</guid>
+      <description>Familias iteración individual</description>
+    </item>
+    
+    <item>
+      <title>Encargo 04</title>
+      <link>/docs/post-1-copy-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-1-copy-2/</guid>
+      <description>Primer encargo grupal</description>
+    </item>
+    
+    <item>
+      <title>Encargo 05</title>
       <link>/docs/post-1-copy/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>/docs/post-1-copy/</guid>
       <description>Portafolio  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+    </item>
+    
+    <item>
+      <title>Encargo 06</title>
+      <link>/docs/post-1-copy-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-1-copy-4/</guid>
+      <description>Trabajo final</description>
     </item>
     
   </channel>
