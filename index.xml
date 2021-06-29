@@ -145,5 +145,23 @@
       <description>pdf grupal</description>
     </item>
     
+    <item>
+      <title>Post 3.0</title>
+      <link>/docs/post-1-copy-13/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-1-copy-13/</guid>
+      <description>Serpentine Pavilion</description>
+    </item>
+    
+    <item>
+      <title>Post 3.1</title>
+      <link>/docs/post-1-copy-14/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-1-copy-14/</guid>
+      <description>Serpentine Pavilion</description>
+    </item>
+    
   </channel>
 </rss>
